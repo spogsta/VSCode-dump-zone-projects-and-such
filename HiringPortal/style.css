@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(135, 120, 108) ;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    font-family: serif;
+}
+
+table {
+    border-color: black;
+    border: 1px solid black
+}
+th {
+    border: 5px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
